@@ -30,6 +30,3 @@ Understand the role of VPNs in protecting user privacy and secure communication.
 - Limited free server options.
 - Slightly slower connection speed.
 
-
-## 🧾 Report
-All details included in `VPN_Report.docx`.
